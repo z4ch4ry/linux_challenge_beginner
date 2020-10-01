@@ -1,0 +1,10 @@
+
+
+2. I know two ways to find the size of a file.
+   I used for the script the commande ls -l, i used
+   it because it was the first command that i learned and it print more details about the file.
+   The second way is to do with wc-c that print the size and the name of the file.
+
+3. I used the sort-d, like a dictionnary. I used it because all the characters are alphanumeric
+   and also if i want to know if a string is in the file it will take less time, so in my opinion it is more usefull.
+   The default option is like the dictionnary but can sort all the characters and put numbers after letters
